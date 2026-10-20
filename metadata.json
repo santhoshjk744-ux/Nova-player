@@ -1,0 +1,6 @@
+{
+  "name": "NovaPlayer - High-Performance Offline Video Player",
+  "description": "High-performance offline local video player for budget & flagship devices with MX-style gesture controls, 4K hardware playback, 200% volume boost, multi-track audio, and Jetpack Compose Media3 engine.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
